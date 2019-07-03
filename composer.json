@@ -1,0 +1,28 @@
+{
+    "name": "ipfinder-io/codeigniter",
+    "description": "CodeIgniter IPFinder Library",
+    "type": "library,",
+    "license": "Apache-2.0",
+    "keywords": [
+        "codeigniter",
+        "IPFINDER",
+        "IPV4",
+        "IPV6",
+        "ASN",
+        "Domain name",
+    ],
+    "authors": [
+        {
+            "name": "Mohamed Ben rebia",
+            "email": "mohamed@ipfinder.io"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+         "ext-curl": "*"
+    },
+    "autoload": {
+        "classmap": ["libraries/Ipfinderlib.php"]
+    }
+
+}
