@@ -10,7 +10,18 @@ The official CodeIgniter IPFinder Library for the [IPFinder.io](https://ipfinder
 -  TOKEN details
 
 ## Installation
-Installing IPFinder PHP Client Library using Composer:
+
+### Via composer
+
+```shell
+composer require ipfinder-io/codeigniter
+```
+
+### Manually
+
+Download the [latest release](https://github.com/ipfinder-io/codeigniter-ipfinder/releases).
+
+And installing IPFinder PHP Client Library using Composer:
 ```shell
 composer require ipfinder/ipfinder
 ```

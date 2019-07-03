@@ -19,7 +19,8 @@
     ],
     "require": {
         "php": "^7.1",
-         "ext-curl": "*"
+        "ipfinder/ipfinder": "^1.0",
+        "ext-curl": "*"
     },
     "autoload": {
         "classmap": ["libraries/Ipfinderlib.php"]
