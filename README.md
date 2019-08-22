@@ -66,12 +66,11 @@ Sample codes under **controllers/IFinder.php** file.
 
 
 
-## other
+## Other
 
 - See the [IPFidner documentation](https://ipfinder.io/docs).
 - See the [IPFinder PHP Client Library](https://github.com/ipfinder-io/ip-finder-php).
 
 ## License
 
-----
-[![GitHub license](https://img.shields.io/github.com/ipfinder-io/codeigniter-ipfinder.svg)](https://github.com/ipfinder-io/codeigniter-ipfinder/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ipfinder-io/codeigniter-ipfinder)](https://github.com/ipfinder-io/codeigniter-ipfinder/blob/master/LICENSE)
