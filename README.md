@@ -69,7 +69,7 @@ Sample codes under **controllers/IFinder.php** file.
 ## other
 
 - See the [IPFidner documentation](https://ipfinder.io/docs).
-- See the [IPFinder PHP Client Library](hhttps://github.com/ipfinder-io/ip-finder-php).
+- See the [IPFinder PHP Client Library](https://github.com/ipfinder-io/ip-finder-php).
 
 ## License
 
